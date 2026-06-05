@@ -4,8 +4,6 @@
 
 I'm a software engineer at **[Lebesgue](https://lebesgue.io)**, based in Croatia. I focus on turning LLM agent prototypes into reliable production systems.
 
-### What I've built
-
 I built **[Henri](https://lebesgue.io/product-features/henri-ai-agent-for-growth)** end-to-end — an AI analytics agent that helps ecommerce teams understand what changed in their business, why it happened, and
 what to do next. Used by 10,000+ brands.
 
