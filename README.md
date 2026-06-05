@@ -29,6 +29,13 @@ Under the hood I built:
 
 ---
 
+### 🚧 Currently building
+
+- An open-source LangGraph starter showing the production patterns most tutorials skip — typed tools, token streaming, an eval harness, retries, and cost tracking _(in progress)_
+- Writing up what actually breaks when you put LLM agents in production
+
+---
+
 ### ✍️ I'm starting to write & build in public
 
 I'm sharing what I've learned shipping AI agents to production — the parts that actually break, not the demos.
@@ -40,4 +47,4 @@ I'm sharing what I've learned shipping AI agents to production — the parts tha
 
 ---
 
-_Currently building small AI tools on the side. Follow along._
+_Building in public. Follow along._
