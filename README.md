@@ -14,4 +14,8 @@ That code is private. The public repos here are older: an audio instrument class
 
 Python · LangGraph · MCP · FastAPI · ClickHouse · PostgreSQL · TypeScript · Next.js · AWS
 
-[LinkedIn](https://www.linkedin.com/in/karlo-borovcak) · [X](https://x.com/karloborovcak) · borovcak.karlo@gmail.com
+---
+
+[![X](https://img.shields.io/badge/@karloborovcak-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/karloborovcak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/karlo-borovcak)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:borovcak.karlo@gmail.com)
