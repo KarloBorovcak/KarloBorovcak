@@ -10,7 +10,6 @@ What I've built there:
 - The move of our pixel analytics warehouse from Redshift to ClickHouse, over a billion events.
 - Integrations with Amazon Seller, Amazon Ads, Klaviyo and Google Ads on FastAPI, Celery and AWS ECS.
 
-That code is private. The public repos here are older: an audio instrument classifier from Lumen Data Science 2023, and my bachelor thesis on predicting the NCAA March Madness tournament.
 
 Python · LangGraph · MCP · FastAPI · ClickHouse · PostgreSQL · TypeScript · Next.js · AWS
 
